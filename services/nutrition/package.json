@@ -25,7 +25,7 @@
     "@aki/shared": "workspace:*",
     "@nestjs/common": "^10.3.0",
     "@nestjs/config": "^3.1.1",
-    "@nestjs/core": "^10.3.0",
+    "@nestjs/core": "^11.1.18",
     "@nestjs/passport": "^10.0.3",
     "@nestjs/platform-express": "^10.3.0",
     "@nestjs/schedule": "^4.0.0",
